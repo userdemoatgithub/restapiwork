@@ -58,7 +58,7 @@ public class FirstSerenityTest {
 	
 	@Test
 	public void thisIsWithErrorTest(){
-		System.out.println("This is an error !" + 5/0 );	
+		System.out.println("This is an error !!" + 5/0 );	
 	}
 	
 	@Test
